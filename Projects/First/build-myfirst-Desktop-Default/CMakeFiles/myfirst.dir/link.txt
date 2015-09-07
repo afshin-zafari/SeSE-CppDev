@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/myfirst.dir/main.c.o  -o myfirst -rdynamic 
